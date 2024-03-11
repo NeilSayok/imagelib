@@ -1,0 +1,29 @@
+{
+    "min": 0,
+    "max": 15000,
+    "points": [
+        {
+            "value": 2000
+        },
+        {
+            "value": 10000
+        }
+    ],
+    "items": [
+        {
+            "name": "item A",
+            "multiple":3,
+            "eachQtyValue": 75
+        },
+        {
+            "name": "item B",
+            "multiple":1,
+            "eachQtyValue": 50
+        },
+        {
+            "name": "item C",
+            "multiple":2,
+            "eachQtyValue": 20
+        }
+    ]
+}
