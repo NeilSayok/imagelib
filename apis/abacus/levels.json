@@ -1,37 +1,1006 @@
 {
-    "levels" : [
+  "levels": [
+    {
+      "columns": 3,
+      "level": 1,
+      "type": "SIMPLE",
+      "calculation": [
         {
-            "columns" : 3,
-            "level" : 1,
-            "type" : "SIMPLE", 
-            "calculation" : [ 
-                {
-                    "step" : 1, 
-                    "number" : 50
-                }
-            ],
-            "result" : 50
-        },
-
-        {
-            "columns" : 3,
-            "level" : 2,
-            "type" : "COMPLEX", 
-            "calculation" : [ 
-                {
-                    "step" : 1, 
-                    "number" : 50
-                },
-                {
-                    "step" : 2, 
-                    "number" : -40
-                }
-            ],
-            "result" : 10
+          "step": 1,
+          "number": 50
         }
+      ],
+      "result": 50
+    },
+    {
+      "columns": 3,
+      "level": 2,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 60
+        }
+      ],
+      "result": 60
+    },
+    {
+      "columns": 3,
+      "level": 3,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 70
+        }
+      ],
+      "result": 70
+    },
+    {
+      "columns": 3,
+      "level": 4,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 80
+        }
+      ],
+      "result": 80
+    },
+    {
+      "columns": 4,
+      "level": 5,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 90
+        }
+      ],
+      "result": 90
+    },
+    {
+      "columns": 4,
+      "level": 6,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 100
+        }
+      ],
+      "result": 100
+    },
+    {
+      "columns": 4,
+      "level": 7,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 110
+        }
+      ],
+      "result": 110
+    },
+    {
+      "columns": 5,
+      "level": 8,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 120
+        }
+      ],
+      "result": 120
+    },
+    {
+      "columns": 5,
+      "level": 9,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 130
+        }
+      ],
+      "result": 130
+    },
+    {
+      "columns": 5,
+      "level": 10,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 140
+        }
+      ],
+      "result": 140
+    },
+    {
+      "columns": 3,
+      "level": 11,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 150
+        }
+      ],
+      "result": 150
+    },
+    {
+      "columns": 3,
+      "level": 12,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 160
+        }
+      ],
+      "result": 160
+    },
+    {
+      "columns": 3,
+      "level": 13,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 170
+        }
+      ],
+      "result": 170
+    },
+    {
+      "columns": 3,
+      "level": 14,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 180
+        }
+      ],
+      "result": 180
+    },
+    {
+      "columns": 4,
+      "level": 15,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 190
+        }
+      ],
+      "result": 190
+    },
+    {
+      "columns": 4,
+      "level": 16,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 200
+        }
+      ],
+      "result": 200
+    },
+    {
+      "columns": 4,
+      "level": 17,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 210
+        }
+      ],
+      "result": 210
+    },
+    {
+      "columns": 5,
+      "level": 18,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 220
+        }
+      ],
+      "result": 220
+    },
+    {
+      "columns": 5,
+      "level": 19,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 230
+        }
+      ],
+      "result": 230
+    },
+    {
+      "columns": 5,
+      "level": 20,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 240
+        }
+      ],
+      "result": 240
+    },
+    {
+      "columns": 6,
+      "level": 21,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 250
+        }
+      ],
+      "result": 250
+    },
+    {
+      "columns": 6,
+      "level": 22,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 260
+        }
+      ],
+      "result": 260
+    },
+    {
+      "columns": 6,
+      "level": 23,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 270
+        }
+      ],
+      "result": 270
+    },
+    {
+      "columns": 7,
+      "level": 24,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 280
+        }
+      ],
+      "result": 280
+    },
+    {
+      "columns": 7,
+      "level": 25,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 290
+        }
+      ],
+      "result": 290
+    },
+    {
+      "columns": 7,
+      "level": 26,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 300
+        }
+      ],
+      "result": 300
+    },
+    {
+      "columns": 8,
+      "level": 27,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 310
+        }
+      ],
+      "result": 310
+    },
+    {
+      "columns": 8,
+      "level": 28,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 320
+        }
+      ],
+      "result": 320
+    },
+    {
+      "columns": 8,
+      "level": 29,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 330
+        }
+      ],
+      "result": 330
+    },
+    {
+      "columns": 9,
+      "level": 30,
+      "type": "SIMPLE",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 340
+        }
+      ],
+      "result": 340
+    },
 
+    {
+      "columns": 3,
+      "level": 31,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 240
+        },
+        {
+          "step": 2,
+          "number": -120
+        },
+        {
+          "step": 3,
+          "number": 60
+        }
+      ],
+      "result": 180
+    },
+    {
+      "columns": 3,
+      "level": 32,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 260
+        },
+        {
+          "step": 2,
+          "number": -130
+        },
+        {
+          "step": 3,
+          "number": 70
+        }
+      ],
+      "result": 200
+    },
+    {
+      "columns": 3,
+      "level": 33,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 280
+        },
+        {
+          "step": 2,
+          "number": -140
+        },
+        {
+          "step": 3,
+          "number": 80
+        }
+      ],
+      "result": 220
+    },
+    {
+      "columns": 4,
+      "level": 34,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 300
+        },
+        {
+          "step": 2,
+          "number": -150
+        },
+        {
+          "step": 3,
+          "number": 90
+        }
+      ],
+      "result": 240
+    },
+    {
+      "columns": 4,
+      "level": 35,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 320
+        },
+        {
+          "step": 2,
+          "number": -160
+        },
+        {
+          "step": 3,
+          "number": 100
+        }
+      ],
+      "result": 260
+    },
+    {
+      "columns": 4,
+      "level": 36,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 340
+        },
+        {
+          "step": 2,
+          "number": -170
+        },
+        {
+          "step": 3,
+          "number": 110
+        }
+      ],
+      "result": 280
+    },
+    {
+      "columns": 5,
+      "level": 37,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 360
+        },
+        {
+          "step": 2,
+          "number": -180
+        },
+        {
+          "step": 3,
+          "number": 120
+        }
+      ],
+      "result": 300
+    },
+    {
+      "columns": 5,
+      "level": 38,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 380
+        },
+        {
+          "step": 2,
+          "number": -190
+        },
+        {
+          "step": 3,
+          "number": 130
+        }
+      ],
+      "result": 320
+    },
+    {
+      "columns": 5,
+      "level": 39,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 400
+        },
+        {
+          "step": 2,
+          "number": -200
+        },
+        {
+          "step": 3,
+          "number": 140
+        }
+      ],
+      "result": 340
+    },
+    {
+      "columns": 6,
+      "level": 40,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 420
+        },
+        {
+          "step": 2,
+          "number": -210
+        },
+        {
+          "step": 3,
+          "number": 150
+        }
+      ],
+      "result": 360
+    },
+    {
+      "columns": 3,
+      "level": 41,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 240
+        },
+        {
+          "step": 2,
+          "number": -120
+        },
+        {
+          "step": 3,
+          "number": 60
+        }
+      ],
+      "result": 180
+    },
+    {
+      "columns": 3,
+      "level": 42,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 260
+        },
+        {
+          "step": 2,
+          "number": -130
+        },
+        {
+          "step": 3,
+          "number": 70
+        }
+      ],
+      "result": 200
+    },
+    {
+      "columns": 3,
+      "level": 43,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 280
+        },
+        {
+          "step": 2,
+          "number": -140
+        },
+        {
+          "step": 3,
+          "number": 80
+        }
+      ],
+      "result": 220
+    },
+    {
+      "columns": 4,
+      "level": 44,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 300
+        },
+        {
+          "step": 2,
+          "number": -150
+        },
+        {
+          "step": 3,
+          "number": 90
+        }
+      ],
+      "result": 240
+    },
+    {
+      "columns": 4,
+      "level": 45,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 320
+        },
+        {
+          "step": 2,
+          "number": -160
+        },
+        {
+          "step": 3,
+          "number": 100
+        }
+      ],
+      "result": 260
+    },
+    {
+      "columns": 4,
+      "level": 46,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 340
+        },
+        {
+          "step": 2,
+          "number": -170
+        },
+        {
+          "step": 3,
+          "number": 110
+        }
+      ],
+      "result": 280
+    },
+    {
+      "columns": 5,
+      "level": 47,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 360
+        },
+        {
+          "step": 2,
+          "number": -180
+        },
+        {
+          "step": 3,
+          "number": 120
+        }
+      ],
+      "result": 300
+    },
+    {
+      "columns": 5,
+      "level": 48,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 380
+        },
+        {
+          "step": 2,
+          "number": -190
+        },
+        {
+          "step": 3,
+          "number": 130
+        }
+      ],
+      "result": 320
+    },
+    {
+      "columns": 5,
+      "level": 49,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 400
+        },
+        {
+          "step": 2,
+          "number": -200
+        },
+        {
+          "step": 3,
+          "number": 140
+        }
+      ],
+      "result": 340
+    },
+    {
+      "columns": 6,
+      "level": 50,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 420
+        },
+        {
+          "step": 2,
+          "number": -210
+        },
+        {
+          "step": 3,
+          "number": 150
+        }
+      ],
+      "result": 360
+    },
 
-        
-    ]
-    
+    {
+      "columns": 6,
+      "level": 51,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 640
+        },
+        {
+          "step": 2,
+          "number": -320
+        },
+        {
+          "step": 3,
+          "number": 260
+        },
+        {
+          "step": 4,
+          "number": 150
+        }
+      ],
+      "result": 730
+    },
+    {
+      "columns": 6,
+      "level": 52,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 660
+        },
+        {
+          "step": 2,
+          "number": -330
+        },
+        {
+          "step": 3,
+          "number": 270
+        },
+        {
+          "step": 4,
+          "number": 160
+        }
+      ],
+      "result": 760
+    },
+    {
+      "columns": 7,
+      "level": 53,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 680
+        },
+        {
+          "step": 2,
+          "number": -340
+        },
+        {
+          "step": 3,
+          "number": 280
+        },
+        {
+          "step": 4,
+          "number": 170
+        }
+      ],
+      "result": 790
+    },
+    {
+      "columns": 7,
+      "level": 54,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 700
+        },
+        {
+          "step": 2,
+          "number": -350
+        },
+        {
+          "step": 3,
+          "number": 290
+        },
+        {
+          "step": 4,
+          "number": 180
+        }
+      ],
+      "result": 820
+    },
+    {
+      "columns": 8,
+      "level": 55,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 720
+        },
+        {
+          "step": 2,
+          "number": -360
+        },
+        {
+          "step": 3,
+          "number": 300
+        },
+        {
+          "step": 4,
+          "number": 190
+        }
+      ],
+      "result": 850
+    },
+    {
+      "columns": 8,
+      "level": 56,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 740
+        },
+        {
+          "step": 2,
+          "number": -370
+        },
+        {
+          "step": 3,
+          "number": 310
+        },
+        {
+          "step": 4,
+          "number": 200
+        }
+      ],
+      "result": 880
+    },
+    {
+      "columns": 9,
+      "level": 57,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 760
+        },
+        {
+          "step": 2,
+          "number": -380
+        },
+        {
+          "step": 3,
+          "number": 320
+        },
+        {
+          "step": 4,
+          "number": 210
+        }
+      ],
+      "result": 910
+    },
+    {
+      "columns": 9,
+      "level": 58,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 780
+        },
+        {
+          "step": 2,
+          "number": -390
+        },
+        {
+          "step": 3,
+          "number": 330
+        },
+        {
+          "step": 4,
+          "number": 220
+        }
+      ],
+      "result": 940
+    },
+    {
+      "columns": 10,
+      "level": 59,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 800
+        },
+        {
+          "step": 2,
+          "number": -400
+        },
+        {
+          "step": 3,
+          "number": 340
+        },
+        {
+          "step": 4,
+          "number": 230
+        }
+      ],
+      "result": 970
+    },
+    {
+      "columns": 10,
+      "level": 60,
+      "type": "COMPLEX",
+      "calculation": [
+        {
+          "step": 1,
+          "number": 820
+        },
+        {
+          "step": 2,
+          "number": -410
+        },
+        {
+          "step": 3,
+          "number": 350
+        },
+        {
+          "step": 4,
+          "number": 240
+        }
+      ],
+      "result": 1000
+    }
+  ]
 }
