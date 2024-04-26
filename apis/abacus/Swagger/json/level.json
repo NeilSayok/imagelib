@@ -4,8 +4,13 @@
     "title": "Abacus Levels API",
     "version": "1.0.0"
   },
+  "servers": [
+    {
+      "url": "https://neilsayok.github.io/imagelib/apis"
+    }
+  ],
   "paths": {
-    "/abacus/levels": {
+    "/abacus/levels.json": {
       "get": {
         "summary": "Get Abacus Levels",
         "responses": {
