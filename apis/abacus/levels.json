@@ -1,0 +1,35 @@
+{
+    "levels" : [
+        {
+            "columns" : 3,
+            "level" : 1,
+            "type" : "SIMPLE", 
+            "calculation" : [ 
+                {
+                    "step" : 1, 
+                    "number" : 50
+                }
+            ]
+        },
+
+        {
+            "columns" : 3,
+            "level" : 2,
+            "type" : "COMPLEX", 
+            "calculation" : [ 
+                {
+                    "step" : 1, 
+                    "number" : 50
+                },
+                {
+                    "step" : 2, 
+                    "number" : -40
+                }
+            ]
+        }
+
+
+        
+    ]
+    
+}

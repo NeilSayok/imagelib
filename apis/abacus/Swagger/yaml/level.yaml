@@ -1,0 +1,42 @@
+openapi: 3.0.0
+info:
+  title: Abacus Levels API
+  version: 1.0.0
+paths:
+  /abacus/levels:
+    get:
+      summary: Get Abacus Levels
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  levels:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        columns:
+                          type: integer
+                          description: Number of columns needed for the abacus
+                        level:
+                          type: integer
+                          description: Level number
+                        type:
+                          type: string
+                          enum: [SIMPLE, COMPLEX]
+                          description: Type of the level
+                        calculation:
+                          type: array
+                          items:
+                            type: object
+                            properties:
+                              step:
+                                type: integer
+                                description: Step number
+                              number:
+                                type: integer
+                                description: The number to be shown
