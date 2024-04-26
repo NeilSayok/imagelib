@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "Abacus Levels API",
+    "title": "Level API",
     "version": "1.0.0"
   },
   "servers": [
@@ -57,6 +57,10 @@
                                 }
                               }
                             }
+                          },
+                          "result": {
+                            "type": "integer",
+                            "description": "Result of the calculation"
                           }
                         }
                       }
