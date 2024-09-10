@@ -6,5 +6,5 @@
 
 
 
- <Button variant="text"  onclick=" window.open('http://google.com','_blank')">View Project</Button>
+ <Button variant="text"  onclick={window.open('http://google.com','_blank')}>View Project</Button>
 
