@@ -1,4 +1,5 @@
-Always name file with Project Title seperated with hyphen
+Always name file with Project Title seperated with _ then subject
+
 Replacement Rules :
 
 '-' -> ' '
@@ -7,3 +8,5 @@ Replacement Rules :
 
 Example : 
 VacciTrack_Track-Covid-Vaccines.md
+
+<Button variant="text" destination="https://play.google.com/store/apps/details?id=com.ibo.android&hl=en-IN">View Project</Button>
