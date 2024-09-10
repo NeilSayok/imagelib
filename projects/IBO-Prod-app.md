@@ -6,8 +6,4 @@
 
 
 
-<Button variant="text" onClick={}>View Project</Button>
-
-<Button destination="https://www.google.com">Go to Example</Button>
-
-
+<Button variant="text" destination="https://play.google.com/store/apps/details?id=com.ibo.android&hl=en-IN">View Project</Button>
