@@ -3,3 +3,8 @@
 - Created a Wallet page using Jetpack Compose for efficient UI rendering.
 - Incorporated multiple animations throughout the app using XML and MotionLayouts.
 - Designed and implemented Store Details Pages for seamless browsing experience.
+
+
+
+ <Button variant="text" onClick={goToPage(project.git_url)}>View Project</Button>
+
