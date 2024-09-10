@@ -1,0 +1,9 @@
+Always name file with Project Title seperated with hyphen
+Replacement Rules :
+
+'-' -> ' '
+'_' -> '-'
+
+
+Example : 
+VacciTrack_Track-Covid-Vaccines.md
