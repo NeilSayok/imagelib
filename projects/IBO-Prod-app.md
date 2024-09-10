@@ -6,5 +6,8 @@
 
 
 
- <Button variant="text"  onclick={window.open('http://google.com','_blank')}>View Project</Button>
+<Button variant="text" onClick={}>View Project</Button>
+
+<Button destination="https://www.google.com">Go to Example</Button>
+
 
