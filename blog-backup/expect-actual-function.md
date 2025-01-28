@@ -95,7 +95,22 @@ We can also do the same with `var/val` the syntax will become something like `ex
 
 ### Steps to do this using Android Studio
 
+Create and write a file in `commonMain`
 
+![Declare Expect function](https://neilsayok.github.io/imagelib/images/blog/expect-actual-function/1-declare.png)
 
-![Declaer Expect function](https://neilsayok.github.io/imagelib/images/blog/expect-actual-function/1-declare.png)
+Hit AutoSuggestions (Option+Enter / Alt+Enter)
 
+![Add Missing Declarations](https://neilsayok.github.io/imagelib/images/blog/expect-actual-function/2-click-add-missing-declaration.png)
+
+Select the folders for the actual declaration:
+
+![Select Folders](https://neilsayok.github.io/imagelib/images/blog/expect-actual-function/3-select-folders.png)
+
+Voila your files are created
+
+![Files Are created](https://neilsayok.github.io/imagelib/images/blog/expect-actual-function/4-files-created.png)
+
+#### Conclusion: 
+
+`expect/actual` functions are a bridge between the common codebase and the platform dependent code bases. This give the developer the freedom to write clean and maintainable code.
