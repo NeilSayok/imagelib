@@ -96,3 +96,6 @@ We can also do the same with `var/val` the syntax will become something like `ex
 ### Steps to do this using Android Studio
 
 
+
+![Declaer Expect function](https://neilsayok.github.io/imagelib/images/blog/expect-actual-function/1-declare.png)
+
