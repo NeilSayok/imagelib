@@ -1,7 +1,8 @@
-### Solar System Exploration, 1950s – 1960s
+### Writeups
 
-- [ ] Reflection 
-- [ ] Extention function 
+- [ ] Compose Multiplatform : Reflection 
+- [ ] Extention function
+- [ ] Compose Multiplatform : Add resource
 
 
 
@@ -11,7 +12,8 @@
 
 ### To Publish
 - [ ] higher-order-function
-- [ ] expect-actual-function
+- [ ] Compose Multiplatform : expect-actual-function
+- [ ] Lambda Functions
 
 
 
