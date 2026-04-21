@@ -21,12 +21,12 @@ In reality, Threads are basically **Queues**. In each Thread, the OS / the Progr
 ![How Threading works](https://neilsayok.github.io/imagelib/images/blog/threads/CPU-thread-image.png)
 
 
-> When P1 needed user input and was pushed out, the CPU immediately switched to T2 and started executing P4 — no idle time wasted.
+> When P1 needed user input and was pushed out, the CPU immediately switched to T2 and started executing P4 - no idle time wasted.
 
 ---
 
 ## Key Insight
 
-> In reality, **actual parallelism** can only be achieved by **increasing Core count**.
+> - In reality, **actual parallelism** can only be achieved by **increasing Core count**.
 >
 > Threading is just a **smart way to handle the core** and thus saving execution time.
