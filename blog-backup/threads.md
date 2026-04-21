@@ -1,9 +1,3 @@
-# Threads
-
-*22 April 2026*
-
----
-
 ## Definition
 
 A **Thread** is a mechanism which helps in parallel processing of a program. It is basically a mechanism which helps in utilization of the CPU cores to the maximum.
@@ -33,6 +27,6 @@ In reality, Threads are basically **Queues**. In each Thread, the OS / the Progr
 
 ## Key Insight
 
-> ℹ️ In reality, **actual parallelism** can only be achieved by **increasing Core count**.
+> ℹ In reality, **actual parallelism** can only be achieved by **increasing Core count**.
 >
 > Threading is just a **smart way to handle the core** and thus saving execution time.
