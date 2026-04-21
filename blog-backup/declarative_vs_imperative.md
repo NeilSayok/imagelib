@@ -42,7 +42,7 @@ for (i in arr) {
 
 ---
 
-## Jetpack Compose — Declarative Wrapper over Imperative Kotlin
+## Jetpack Compose - Declarative Wrapper over Imperative Kotlin
 
 Basically, Jetpack Compose is a **declarative wrapper** over imperative Kotlin.
 
@@ -86,4 +86,4 @@ fun updateUI(isLoggedIn: Boolean) {
 
 | | Compose | XML + Kotlin |
 |---|---|---|
-| **When UI decisions are made** | During **runtime** — drawn and taken during runtime | During **compile time** — only properties of items can be changed at runtime |
+| **When UI decisions are made** | During **runtime** - drawn and taken during runtime | During **compile time** - only properties of items can be changed at runtime |
