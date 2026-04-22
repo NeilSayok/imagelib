@@ -18,7 +18,7 @@ As variable has a return type which in Kotlin we define after `:`, we also defin
 
 We can send or not send parameters as per our needs and if the lambda function does not return any data then we can define the return type as `Unit`.
 
-### `_` in lambda functions
+###  ` _ ` in lambda functions
 
 Now for example there is a lambda function as below :
 
